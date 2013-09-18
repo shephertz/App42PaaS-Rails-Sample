@@ -1,0 +1,5 @@
+App42PaaS-Rails-Sample
+======================
+
+Sample Rails App for App42 PaaS Platform
+
